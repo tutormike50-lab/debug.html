@@ -142,7 +142,8 @@ Nothing requested yet.
 <script>
 
 const AIRCRAFT_API =
-"https://mikeaircraft-9hkn-186rknjwy-mikeplanes.vercel.app/api/aircraft";
+const PHOTO_API =
+"https://mikeaircraft-9hkn-5he7ba6gv-mikeplanes.vercel.app/api/photo";
 
 
 /*
